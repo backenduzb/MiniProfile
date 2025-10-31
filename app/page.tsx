@@ -118,7 +118,7 @@ export default function Home() {
                     </span>
                   </div>
                 </Link>
-                <Link href="https://uzbekdevs.uz/@python_dev_junior" target="_blank">
+                <Link href="https://github.com/backenduzb" target="_blank">
                   <div className="mt-6 group w-12 h-12 shadow-[0_0_15px_2px] shadow-white rounded-full flex items-center justify-center backdrop-blur-sm hover:w-44 hover:h-12 transition-all duration-300 hover:bg-gradient-to-r hover:from-white/20 hover:to-white/10">
                     <span className="group-hover:ml-[-10px] transition-all duration-300">
                       <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" fill="currentColor" className="bi bi-github" viewBox="0 0 16 16">
