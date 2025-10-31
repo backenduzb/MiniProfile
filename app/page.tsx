@@ -55,7 +55,7 @@ export default function Home() {
           playsInline
           className="absolute top-0 left-0 w-full h-full object-cover z-0"
         ></video>
-
+      <div className="z-1 bg-black/40 fixed w-full h-full"></div>
         <div className="absolute inset-0 z-10 flex items-center justify-center">
           <div className="
               relative
