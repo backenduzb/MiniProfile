@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import ProfilePhoto from "@/public/photo.jpg";
+import ProfilePhoto from "@/public/image.png";
 import Link from "next/link";
 import X from "@/public/x.png"
 import { useEffect, useState } from "react";
